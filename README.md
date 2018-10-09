@@ -9,13 +9,13 @@ https://instagram.com/dsc_unhas
 # Ceotech STMIK Handayani
 # LSC Fikom UMI
 # CNC PNUP
-cnc.poliupg.ac.id
+http://cnc.poliupg.ac.id
 # Coder Institute Unhas
 # Dipanegara Computer Club - Stimik Dipanegara
 # Exomatic UMI
 # inkReady Workgroup UIN
 # Encrypt UMI
 # Energi STIMED
-energi.stimednp.ac.id
+http://energi.stimednp.ac.id
 # FemaleGeek PHP Indonesia Regional Makassar
 # MarosDev
