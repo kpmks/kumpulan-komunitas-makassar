@@ -1,6 +1,6 @@
-# kumpulan-komunitas-makassar
+# Kumpulan Komunitas IT Makassar
 
-### Developer Students Club - Universitas Hasanuddin Makassar
+### Developer Student Clubs - Universitas Hasanuddin Makassar
 https://instagram.com/dsc_unhas
 ### KeDai Computerworks STMIK DIPANEGARA
 ### Dipanegara Computer Club STMIK DIPANEGARA
@@ -10,8 +10,17 @@ https://instagram.com/dsc_unhas
 ### EXOMATIC UIN ALAUDDIN
 ### CODER INSTITUTE UNHAS
 ### CEOTECH STMIK HANDAYANI 
+### LSC Fikom UMI
+### CNC PNUP
+http://cnc.poliupg.ac.id
+### Exomatic UMI
+### inkReady Workgroup UIN
+### Encrypt UMI
+### Energi STIMED
+http://energi.stimednp.ac.id
+### FemaleGeek PHP Indonesia Regional Makassar
+### MarosDev
 
-# Co-Working Space
+# Co-Working Space Makassar
 ## Makassar Digital Valley
 https://makassardigitalvalley.id/
-
