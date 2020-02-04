@@ -7,6 +7,7 @@ https://instagram.com/dsc_unhas
 ### DIMENSI STMIK DIPANEGARA
 ### XP STMIK DIPANEGARA
 ### CODER INSTITUTE UNHAS
+https://www.instagram.com/coderinstitute/
 ### CEOTECH STMIK HANDAYANI 
 ### LSC Fikom UMI
 ### CNC PNUP
