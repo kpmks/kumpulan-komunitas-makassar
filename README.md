@@ -19,6 +19,21 @@ http://energi.stimednp.ac.id
 ### FemaleGeek PHP Indonesia Regional Makassar
 ### MarosDev
 
+# Grup Telegram
+### Komunitas Programmer Makassar
+https://bit.ly/kpmtelegram
+### Laravel Makassar
+https://t.me/joinchat/CbOyC0DFnCsyczUwC_0M0w
+### DevOps Makassar
+https://t.me/DevOpsMks
+### mks.py
+https://t.me/mkspy
+### React Army Makassar
+https://t.me/reactmks
+### Flutter Makassar
+https://t.me/fluttermakassar
+
+
 # Co-Working Space Makassar
 ## Makassar Digital Valley
 https://makassardigitalvalley.id/
