@@ -32,6 +32,8 @@ https://t.me/mkspy
 https://t.me/reactmks
 ### Flutter Makassar
 https://t.me/fluttermakassar
+### IoT Makassar
+https://t.me/iotmakassar
 
 
 # Co-Working Space Makassar
