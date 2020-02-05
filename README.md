@@ -9,7 +9,7 @@ https://www.instagram.com/dsc.uinam/
 ### DIMENSI STMIK DIPANEGARA
 ### XP STMIK DIPANEGARA
 ### CODER INSTITUTE UNHAS
-### CEOTECH STMIK HANDAYANI 
+### CEOTECH STMIK HANDAYANI
 ### LSC Fikom UMI
 ### CNC PNUP
 http://cnc.poliupg.ac.id
@@ -26,6 +26,8 @@ http://energi.stimednp.ac.id
 https://bit.ly/kpmtelegram
 ### Laravel Makassar
 https://t.me/joinchat/CbOyC0DFnCsyczUwC_0M0w
+### Codeigniter Makassar
+https://t.me/cimakassar
 ### DevOps Makassar
 https://t.me/DevOpsMks
 ### mks.py
