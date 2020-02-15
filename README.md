@@ -9,6 +9,7 @@ https://www.instagram.com/dsc.uinam/
 ### DIMENSI STMIK DIPANEGARA
 ### XP STMIK DIPANEGARA
 ### CODER INSTITUTE UNHAS
+https://coder-institute.com/
 https://www.instagram.com/coderinstitute/
 ### CEOTECH STMIK HANDAYANI 
 ### LSC Fikom UMI
